@@ -1,4 +1,4 @@
-# Curso React
+# Curso Full-Stack com REACT, ASP.NET Core e EF Core
 
 ## Table of Contents
 
