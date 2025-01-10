@@ -1,0 +1,7 @@
+npm run start -> comando para iniciar atividade
+
+Quando há um botão Submit é necessario a criação do preventDefault para não entrar valores vazios
+
+Spread Operator = O que é?
+
+Sempre que altera o estado do Component (useEffect) ele tbm é executado. Para ao adicionar o []
